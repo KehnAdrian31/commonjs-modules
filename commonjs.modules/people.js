@@ -1,6 +1,6 @@
 const fullName = {
-  name: "Kehn",
-  surname: "Panganiban"
+  firstName: "Kehn",
+  lastName: "Panganiban"
 }
 
 module.exports = fullName;
